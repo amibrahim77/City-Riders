@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "vehicalType": "Bus",
+    "picture": "https://i.ibb.co/X4QDNn2/bus.png",
+  "From":["chittagong","Dhaka","Coxs Bazar","kulna","rajsahi"],
+  "To":["chittagong","Dhaka","Coxs Bazar","kulna","rajsahi"]
+  },
+  {
+    "id":2,
+    "vehicalType": "Car",
+    "picture": "https://i.ibb.co/FmXBLM7/car.png",
+  "From":["Dhanmondi","Banani","Uttara","MoghBazar","JatraBari"],
+  "To":["Dhanmondi","Banani","Uttara","MoghBazar","JatraBari"]
+  },
+  {
+    "id":3,
+    "vehicalType": "Bike",
+    "picture": "https://i.ibb.co/m63pz3v/bike.png",
+  "From":["Dhanmondi","Banani","Uttara","MoghBazar","JatraBari"],
+  "To":["Dhanmondi","Banani","Uttara","MoghBazar","JatraBari"]
+  },
+  {
+    "id":4,
+    "vehicalType": "Train",
+    "picture": "https://i.ibb.co/G7TqCwb/train.png",
+  "From":["chittagong","Dhaka","Coxs Bazar","kulna","rajsahi"],
+  "To":["chittagong","Dhaka","Coxs Bazar","kulna","rajsahi"]
+  }
+]
