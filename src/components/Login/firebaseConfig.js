@@ -1,10 +1,10 @@
-export const  firebaseConfig = {
-  apiKey: "AIzaSyB8DeChZ4u4UoC-qvF3r2SWsy6pMehqIak",
-  authDomain: "dreamcity-riders.firebaseapp.com",
-  projectId: "dreamcity-riders",
-  storageBucket: "dreamcity-riders.appspot.com",
-  messagingSenderId: "746620141231",
-  appId: "1:746620141231:web:410fa054d714ac922f1e5a"
+export const firebaseConfig = {
+  apiKey: "AIzaSyCEKVa_XJX88FgjMfnBn16hALPtUcjd4_8",
+  authDomain: "transporter-7792b.firebaseapp.com",
+  projectId: "transporter-7792b",
+  storageBucket: "transporter-7792b.appspot.com",
+  messagingSenderId: "661400954883",
+  appId: "1:661400954883:web:cbbf699837c5a3ef2e0636"
 };
   
   export default firebaseConfig;
